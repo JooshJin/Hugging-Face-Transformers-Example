@@ -8,4 +8,6 @@ A fun example of routing user intent to "informative" or "chitchat" responses. U
 run the following if you do not have Hugging Face Transformers or Pytorch:
 ``` pip install -r reqs.txt ```
 
-***enjoy!***
+****enjoy!****
+
+***Author: Kangsan Joshua Jin (with the help of ChatGPT)***

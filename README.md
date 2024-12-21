@@ -1,3 +1,3 @@
 must have python!
 
-download the -reqs for pytorch and library
+RUN pip install -r requirements.txt
